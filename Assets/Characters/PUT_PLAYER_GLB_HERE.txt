@@ -1,0 +1,3 @@
+Put your Poly Pizza character here and name it:  player.glb
+(Download the .glb from https://poly.pizza/explore/People-and-Characters?anim=1 )
+The game loads it automatically. See README_TH.md for details.
