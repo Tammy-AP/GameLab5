@@ -1,4 +1,4 @@
-# Skybound Bot – แบบฝึกหัดที่ 5 First 3D Game (Godot 4.x)
+# Skybound Bot – แบบฝึกหัดที่ 5 First 3D Game
 
 ## วิธีเปิด
 1. เปิด Godot 4.7.2 → **Import** → เลือกไฟล์ `project.godot` ในโฟลเดอร์นี้
